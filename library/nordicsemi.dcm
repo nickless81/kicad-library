@@ -5,4 +5,9 @@ D BLE chip from Nordic Semiconductor
 K BLE, bluetooth
 $ENDCMP
 #
+$CMP nRF52832
+D nRF Radio
+K Bluetooth Low Energy v4.2
+$ENDCMP
+#
 #End Doc Library
